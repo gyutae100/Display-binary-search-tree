@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  main.cpp
+k:\side project\5 level\drawbsearchtree\drawbsearchtree\main.cpp(165): warning C4101: 'rect' :참조되지 않은 지역 변수입니다.
+  BSearchTree.cpp
+  코드를 생성하고 있습니다...
+  DrawBSearchTree.vcxproj -> K:\Side Project\5 Level\DrawBSearchTree\Debug\DrawBSearchTree.exe
